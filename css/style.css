@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    color: #b5b5b5;
+}
+
+body {
+    background-color: #161a1e;
+}
+
+#root {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#cat {
+    border-radius: 50%;
+    width: 50%;
+}
+
+.main {
+    padding: 10px;
+    background-color: #2a323b;
+    border: 5px solid #3f4b59;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.main * {
+    margin: 10px 0;
+}
