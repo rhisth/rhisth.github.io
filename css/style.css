@@ -19,6 +19,7 @@ body {
 }
 
 #cat {
+    border: 5px solid #3f4b59;
     border-radius: 50%;
     width: 50%;
 }
